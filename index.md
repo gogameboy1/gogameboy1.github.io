@@ -7,6 +7,11 @@ ICeiRA Lab, Department of Electrical Engineering, National Taiwan University
 
 ### Course
 Machine Learning
+Machine Learning Having It Deep and Structure
+Convex Optimization
+Parallel Programming
+Robotics
+Advanced Algorithm
 
 ### Project
 
